@@ -4,4 +4,5 @@ Projetce de l'assignatura Programació 1 de l'[EPSEVG](https://epsevg.upc.edu/ca
 - X68729 Classe memoriaBST
 - X55206 Classe Programa
 - X58154 Simulació d'un SO
+
 Nota:10/10
